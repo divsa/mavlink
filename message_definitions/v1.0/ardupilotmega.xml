@@ -61,7 +61,7 @@
         <description>Execute auxiliary function</description>
         <param index="1" label="AuxiliaryFunction">Auxiliary Function.</param>
         <param index="2" label="SwitchPosition" enum="MAV_CMD_DO_AUX_FUNCTION_SWITCH_LEVEL">Switch Level.</param>
-        <param index="3">Empty.</param>
+        <param index="3" label="NavigationLights">Navigation Lights.</param>
         <param index="4">Empty.</param>
         <param index="5">Empty.</param>
         <param index="6">Empty.</param>
